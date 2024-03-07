@@ -18,6 +18,12 @@ We plan to follow the Rapture World Conquest simplicity to balance between fun a
 - World wars
 - Nuclear war
 
+## Chat
+
+You can join in our discussion rooms on Matrix [here](https://matrix.to/#/#foss-supremacy-join:matrix.org).
+
+Once you join, request for an invite to the Matrix space.
+
 ## How To Contribute
 
 - Download the [Godot Engine](https://godotengine.org/) (normal variant, not C#)
