@@ -1,14 +1,26 @@
 # Cursed World
 
-A RTS game inspired by [Dummynation](https://store.steampowered.com/app/1892030/Dummynation/), [Rapture World Conquest](https://store.steampowered.com/app/547520/Rapture__World_Conquest/) and [Hearts Of Iron IV](https://store.steampowered.com/app/394360/hearts_of_iron_iv/)
+A real-time simplified political RTS/RPG that mimic the systems of real world with simplified logic.
+
+## Inspirations
+
+- [Dummynation](https://store.steampowered.com/app/1892030/Dummynation/)
+- [Rapture - World Conquest](https://store.steampowered.com/app/547520/Rapture__World_Conquest/)
+- [Hearts Of Iron IV](https://store.steampowered.com/app/394360/hearts_of_iron_iv/)
+- [RandomNation](https://rosenburgergames.com/randomnation/)
+- [Enchanted Fortress](https://github.com/subchannel13/EnchantedFortress)
+- [Rival Regions](https://rivalregions.com/)
+- [Victoria II](https://store.steampowered.com/app/42960/Victoria_II/)
+- [Dwarf Fortress](http://www.bay12games.com/dwarves/)
+
+## Motivation
 
 The current political RTS scenario is rich but very complex, killing the fun.
 
-We plan to follow the Rapture World Conquest simplicity to balance between fun and diversity.
+We plan to follow the Rapture World Conquest simplicity to balance between fun and gameplay diversity.
 
 ## Goals
 
-- Create a reallistic Earth globe and 2D map
 - Implement countries with random territory sizes
 - Government management
 - Political scenarios
