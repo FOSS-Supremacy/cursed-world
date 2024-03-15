@@ -30,6 +30,10 @@ We plan to follow the Rapture World Conquest simplicity to balance between fun a
 - World wars
 - Nuclear war
 
+## Game Design
+
+- [Game Design](gdd.md)
+
 ## Chat
 
 You can join in our Matrix [here](https://matrix.to/#/#foss-supremacy-join:matrix.org).
