@@ -57,7 +57,7 @@ If you have a suggestion, open an issue with "(Suggestion)" before the title.
 - Download the repository and game assets
 
 ```sh
-git clone --recursive https://github.com/FOSS-Supremacy/cursed-world
+git clone https://github.com/FOSS-Supremacy/cursed-world
 ```
 
 - Download the [Godot Engine](https://godotengine.org/) 4.x version (normal variant, not C#)
@@ -69,7 +69,6 @@ git clone --recursive https://github.com/FOSS-Supremacy/cursed-world
 - Verify the open issues and select some item to work on
 - Once ready, send a pull request (if you are adding commits on the PR branch, mark it as draft status)
 - We don't accept C# code
-- New assets should be sent to the repository in the `.gitmodules` file
 
 ## Donate
 
