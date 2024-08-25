@@ -36,11 +36,8 @@ We plan to follow the Rapture World Conquest simplicity to balance between fun a
 
 ## Chat
 
-You can join in our Matrix [here](https://matrix.to/#/#foss-supremacy-join:matrix.org).
-
-(Once you join, request for an invite to the Matrix space)
-
-You can also join in our Discord server [here](https://discord.gg/d9ca4U64H4).
+- [Discord](https://discord.gg/d9ca4U64H4)
+- [Matrix](https://matrix.to/#/#foss-supremacy:matrix.org)
 
 ## Bugs
 
